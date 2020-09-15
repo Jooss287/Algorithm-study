@@ -1,8 +1,8 @@
 # Today I Learned Algorithm
 매일 알고리즘 하나씩 접하면서 한발씩 나아가겠습니다. Dev-Log와는 별개로 알고리즘과 OS를 조금씩 공부하면서 실력을 쌓아가겠습니다.
 
-### 문제 출제 링크
-1. [프로그래머스](https://programmers.co.kr/learn/courses/30/parts/12081)
+### 문제 출제 링크(주의: 새 창 열기로 열기 바랍니다)
+1. [프로그래머스](https://programmers.co.kr/learn/challenges)
 2. [백준](https://www.acmicpc.net/problemset)
 
 ### PR 방식 및 참여방법
