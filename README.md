@@ -15,7 +15,7 @@ PR 주실 때 계획/달성표에 완료 날짜에 링크를 추가하여 보내
 
 문제 이름(주제,난이도) | 예정 날짜 | Jooss287(완료 날짜) | Rayin42 |
 --- | :---: | :---: | :---: |
-완주하지 못한 선수(hash_lv1) | 2020.09.15 | [2020.09.15](Coding-test/Jooss287/programers_42576.md) | [2020.09.16](Coding-test/Rayin42/programmers_42576.md)
+완주하지 못한 선수(hash_lv1) | 2020.09.15 | [2020.09.15](Coding-test/Jooss287/programmers_42576.md) | [2020.09.16](Coding-test/Rayin42/programmers_42576.md)
 전화번호 목록(hash_lv2) | 2020.09.16 | [2020.09.16](Coding-test/Jooss287/programmers_42577.md)
 K번째수(sort_lv1) | 2020.09.17 | [2020.09.16](Coding-test/Jooss287/programmers_42748.md)
 가장 큰 수(sort_lv2) | 2020.09.18 | 
