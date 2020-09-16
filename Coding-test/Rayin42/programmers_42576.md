@@ -3,19 +3,20 @@
   
   
 ## 메모 할 사항
- 아직 자료구조를 이론적으로 제대로 배운적이 없기 때문에 이후 map, hash 등 공부와  
+ 아직 자료구조를 이론적으로 제대로 배운적이 없기 때문에 이후 map, hash 등의 공부와,
  특히 어떤 상황에서 어떤 것이 효율적인지에 대한 구현 경험 필요  
+   
  이 문제의 경우 이전에 다른 문제를 풀 때 vector와 sort를 활용한 경험이 있어 우선적으로 사용  
-  
-  
+
+
 ## 입출력 예시
 participant | completion | return  
 ---|---|---  
 [leo, kiki, eden] | [eden, kiki] | leo  
 [marina, josipa, nikola, vinko, filipa] | [josipa, filipa, marina, nikola] | vinko  
 [mislav, stanko, mislav, ana] | [stanko, ana, mislav] | mislav  
-  
-  
+
+
 ## Result Code
   
 ```cpp
