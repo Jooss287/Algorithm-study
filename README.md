@@ -19,7 +19,7 @@ PR 주실 때 계획/달성표에 완료 날짜에 링크를 추가하여 보내
 전화번호 목록(hash_lv2) | 2020.09.16 | [2020.09.16](Coding-test/Jooss287/programmers_42577.md)
 K번째수(sort_lv1) | 2020.09.17 | [2020.09.16](Coding-test/Jooss287/programmers_42748.md)
 가장 큰 수(sort_lv2) | 2020.09.18 | [2020.09.18](Coding-test/Jooss287/programmers_42746.md)
-모의고사(Exhaustive Search_lv1) | 2020.09.19
+모의고사(Exhaustive Search_lv1) | 2020.09.19 | [2020.09.20](Coding-test/Jooss287/prograamers_42840)
 소수 찾기(Exhaustive Search_lv2) | 2020.09.20
 체육복(Greedy_lv1) | 
 큰 수 만들기(Greedy_lv2) | 
