@@ -15,26 +15,26 @@ PR 주실 때 계획/달성표에 완료 날짜에 링크를 추가하여 보내
 
 문제 이름(주제,난이도) | 예정 날짜 | Jooss287(완료 날짜) | Rayin42 |
 --- | :---: | :---: | :---: |
-완주하지 못한 선수(hash_lv1) | 2020.09.15 | [2020.09.15](Coding-test/Jooss287/programmers_42576.md) | [2020.09.16](Coding-test/Rayin42/programmers_42576.md)
-전화번호 목록(hash_lv2) | 2020.09.16 | [2020.09.16](Coding-test/Jooss287/programmers_42577.md)
-K번째수(sort_lv1) | 2020.09.17 | [2020.09.16](Coding-test/Jooss287/programmers_42748.md)
-가장 큰 수(sort_lv2) | 2020.09.18 | [2020.09.18](Coding-test/Jooss287/programmers_42746.md)
-모의고사(Exhaustive Search_lv1) | 2020.09.19 | [2020.09.20](Coding-test/Jooss287/prograamers_42840)
-소수 찾기(Exhaustive Search_lv2) | 2020.09.20
-체육복(Greedy_lv1) | 
-큰 수 만들기(Greedy_lv2) | 
-위장(hash_lv2) | 
-주식가격(stack/queue_lv2) | 
-더 맵게(Heap_lv2) | 
-조이스틱(Greedy_lv2) | 
-카펫(Exhaustive Search_lv2) | 
-H-Index(sort_lv2) | 
-기능개발(stack/queue_lv2) | 
-구명보트(Greedy_lv2) | 
-다리를 지나는 트럭(stack/queue_lv2) | 
-타겟 넘버(DFS/BFS_lv2) | 
-네트워크(DFS/BFS_lv3) | 
-프린터(stack/queue_lv2) | 
+[완주하지 못한 선수(hash_lv1)](https://programmers.co.kr/learn/courses/30/lessons/42576#) | 2020.09.15 | [2020.09.15](Coding-test/Jooss287/programmers_42576.md) | [2020.09.16](Coding-test/Rayin42/programmers_42576.md)
+[전화번호 목록(hash_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42577#)   | 2020.09.16 | [2020.09.16](Coding-test/Jooss287/programmers_42577.md) | [2020.09.21](Coding-test/Rayin42/programmers_42577.md)
+[K번째수(sort_lv1)](https://programmers.co.kr/learn/courses/30/lessons/42748)  | 2020.09.17 | [2020.09.16](Coding-test/Jooss287/programmers_42748.md)
+[가장 큰 수(sort_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42746)   | 2020.09.18 | [2020.09.18](Coding-test/Jooss287/programmers_42746.md)
+[모의고사(Exhaustive Search_lv1)](https://programmers.co.kr/learn/courses/30/lessons/42840) | 2020.09.19 | [2020.09.20](Coding-test/Jooss287/programmers_42840)
+[소수 찾기(Exhaustive Search_lv2)](https://programmers.co.kr/learn/courses/30/lessons/12921) | 2020.09.20
+[체육복(Greedy_lv1)](https://programmers.co.kr/learn/courses/30/lessons/42862) | 
+[큰 수 만들기(Greedy_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42883) | 
+[위장(hash_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42578) | 
+[주식가격(stack/queue_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42584) | 
+[더 맵게(Heap_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42626) | 
+[조이스틱(Greedy_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42860) | 
+[카펫(Exhaustive Search_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42842) | 
+[H-Index(sort_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42747) | 
+[기능개발(stack/queue_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42586) | 
+[구명보트(Greedy_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42885) | 
+[다리를 지나는 트럭(stack/queue_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42583) | 
+[타겟 넘버(DFS/BFS_lv2)](https://programmers.co.kr/learn/courses/30/lessons/43165) | 
+[네트워크(DFS/BFS_lv3)](https://programmers.co.kr/learn/courses/30/lessons/43162) | 
+[프린터(stack/queue_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42587) | 
 
 ## 예비 문제 및 차후 토론시 적용
 문제 이름(주제,난이도) | Jooss287(완료 날짜) | Rayin42 |
