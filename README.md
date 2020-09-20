@@ -20,7 +20,7 @@ PR 주실 때 계획/달성표에 완료 날짜에 링크를 추가하여 보내
 [K번째수(sort_lv1)](https://programmers.co.kr/learn/courses/30/lessons/42748)  | 2020.09.17 | [2020.09.16](Coding-test/Jooss287/programmers_42748.md)
 [가장 큰 수(sort_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42746)   | 2020.09.18 | [2020.09.18](Coding-test/Jooss287/programmers_42746.md)
 [모의고사(Exhaustive Search_lv1)](https://programmers.co.kr/learn/courses/30/lessons/42840) | 2020.09.19 | [2020.09.20](Coding-test/Jooss287/programmers_42840)
-[소수 찾기(Exhaustive Search_lv2)](https://programmers.co.kr/learn/courses/30/lessons/12921) | 2020.09.20
+[소수 찾기(Exhaustive Search_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42839) | 2020.09.20
 [체육복(Greedy_lv1)](https://programmers.co.kr/learn/courses/30/lessons/42862) | 
 [큰 수 만들기(Greedy_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42883) | 
 [위장(hash_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42578) | 
