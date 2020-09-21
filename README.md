@@ -17,7 +17,7 @@ PR 주실 때 계획/달성표에 완료 날짜에 링크를 추가하여 보내
 --- | :---: | :---: | :---: |
 [완주하지 못한 선수(hash_lv1)](https://programmers.co.kr/learn/courses/30/lessons/42576#) | 2020.09.15 | [2020.09.15](Coding-test/Jooss287/programmers_42576.md) | [2020.09.16](Coding-test/Rayin42/programmers_42576.md)
 [전화번호 목록(hash_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42577#)   | 2020.09.16 | [2020.09.16](Coding-test/Jooss287/programmers_42577.md) | [2020.09.21](Coding-test/Rayin42/programmers_42577.md)
-[K번째수(sort_lv1)](https://programmers.co.kr/learn/courses/30/lessons/42748)  | 2020.09.17 | [2020.09.16](Coding-test/Jooss287/programmers_42748.md)
+[K번째수(sort_lv1)](https://programmers.co.kr/learn/courses/30/lessons/42748)  | 2020.09.17 | [2020.09.16](Coding-test/Jooss287/programmers_42748.md) | [2020.09.22](Coding-test/Rayin42/programmers_42748.md)
 [가장 큰 수(sort_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42746)   | 2020.09.18 | [2020.09.18](Coding-test/Jooss287/programmers_42746.md)
 [모의고사(Exhaustive Search_lv1)](https://programmers.co.kr/learn/courses/30/lessons/42840) | 2020.09.19 | [2020.09.20](Coding-test/Jooss287/programmers_42840.md)
 [소수 찾기(Exhaustive Search_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42839) | 2020.09.20 | [보류](Coding-test/Jooss287/programmers_42839.md)
