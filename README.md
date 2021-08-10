@@ -26,9 +26,9 @@ PR 주실 때 계획/달성표에 완료 날짜에 링크를 추가하여 보내
 [가장 큰 수(sort_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42746)   | 2020.09.18 | [2020.09.18](Coding-test/Jooss287/programmers_42746.md)
 [모의고사(Exhaustive Search_lv1)](https://programmers.co.kr/learn/courses/30/lessons/42840) | 2020.09.19 | [2020.09.20](Coding-test/Jooss287/programmers_42840.md)
 [소수 찾기(Exhaustive Search_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42839) | 2020.09.20 | [2021.08.09](Coding-test/Jooss287/programmers_42839.md)
-[체육복(Greedy_lv1)](https://programmers.co.kr/learn/courses/30/lessons/42862) |
-[큰 수 만들기(Greedy_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42883) |
-[위장(hash_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42578) |
+[체육복(Greedy_lv1)](https://programmers.co.kr/learn/courses/30/lessons/42862) | | [2021.08.10](Coding-test/Jooss287/programmers_42862.md)
+[큰 수 만들기(Greedy_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42883) | | [2021.08.10](Coding-test/Jooss287/programmers_42883.md)
+[위장(hash_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42578) | | [2021.08.10](Coding-test/Jooss287/programmers_42578.md)
 [주식가격(stack/queue_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42584) |
 [더 맵게(Heap_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42626) |
 [조이스틱(Greedy_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42860) |
