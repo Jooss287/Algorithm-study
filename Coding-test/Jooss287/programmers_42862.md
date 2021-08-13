@@ -8,6 +8,9 @@
 
 바로 앞사람이나 뒷사람에게 체육복을 나누어 주려면 모든 학생들을 Vector로 보유상황을 나열하고 앞, 뒤부터 차례대로 문제를 해결 해 봅니다.
 
+* 주어진 조건의 배열이 정렬이 되어 있다는 보장을 하지 못합니다. 정렬을 항시 신경써야 합니다.
+* Lost - Reserve 둘다 적용되는 사람이 있다면 Reserve를 사용해서 주위에 체육복을 나누어 줄 때 자기 값이 2여야만 나누어 줄 수 있습니다. 이 조건을 해결했더니 전부 해결가능했습니다.
+
 ## 입출력 예시
 
 n | lost | reserve | return
@@ -19,7 +22,59 @@ n | lost | reserve | return
 ## Result Code
 
 ```cpp
+#include <string>
+#include <vector>
+#include <algorithm>
+#include <iostream>
 
+using namespace std;
+
+int solution(int n, vector<int> lost, vector<int> reserve) {
+    int answer = 0;
+    sort(lost.begin(), lost.end());
+    sort(reserve.begin(), reserve.end());
+
+    vector<int> student(n, 1);
+    for(int lostStudent : lost)
+        student[lostStudent-1] -= 1;
+    for(int reserveStudent : reserve)
+        student[reserveStudent-1] += 1;
+    
+    for (int stu : student)
+        cout << stu << " ";
+    cout << endl;
+    
+    for(int reserveStudent : reserve)
+    {
+        const int preNumStudent = reserveStudent - 2;
+        const int myNumStudent = reserveStudent - 1;
+        const int nextNumStudent = reserveStudent;
+        
+        if (student[myNumStudent] != 2)
+            continue;
+        if ( ( preNumStudent >= 0) && ( student[preNumStudent] == 0) )
+        {
+            student[preNumStudent] = 1;
+            student[myNumStudent] = 1;
+            continue;
+        }
+        if ( ( nextNumStudent < n) && ( student[nextNumStudent] == 0) )
+        {
+            student[nextNumStudent] = 1;
+            student[myNumStudent] = 1;
+            continue;
+        }
+    }
+    
+    for(int& haveSuit : student)
+    {
+        if(haveSuit >= 1)
+            answer++;
+        cout << haveSuit << " ";
+    }
+        
+    return answer;
+}
 ```
 
 ## 초기 작성한 코드
