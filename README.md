@@ -29,8 +29,8 @@ PR 주실 때 계획/달성표에 완료 날짜에 링크를 추가하여 보내
 [체육복(Greedy_lv1)](https://programmers.co.kr/learn/courses/30/lessons/42862) | | [2021.08.10](Coding-test/Jooss287/programmers_42862.md)
 [큰 수 만들기(Greedy_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42883) | | [2021.08.10](Coding-test/Jooss287/programmers_42883.md)
 [위장(hash_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42578) | | [2021.08.10](Coding-test/Jooss287/programmers_42578.md)
-[주식가격(stack/queue_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42584) |
-[더 맵게(Heap_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42626) |
+[주식가격(stack/queue_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42584) | | [2021.08.13](Coding-test/Jooss287/programmers_42584.md)
+[더 맵게(Heap_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42626) | | [2021.08.13](Coding-test/Jooss287/programmers_42626.md)
 [조이스틱(Greedy_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42860) |
 [카펫(Exhaustive Search_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42842) |
 [H-Index(sort_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42747) |
