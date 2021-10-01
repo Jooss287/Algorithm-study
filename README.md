@@ -31,9 +31,9 @@ PR 주실 때 계획/달성표에 완료 날짜에 링크를 추가하여 보내
 [위장(hash_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42578) | | [2021.08.10](Coding-test/Jooss287/programmers_42578.md)
 [주식가격(stack/queue_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42584) | | [2021.08.13](Coding-test/Jooss287/programmers_42584.md)
 [더 맵게(Heap_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42626) | | [2021.08.13](Coding-test/Jooss287/programmers_42626.md)
-[조이스틱(Greedy_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42860) | [2021.10.01](Coding-test/jooss287/programmers_42860.md)
-[카펫(Exhaustive Search_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42842) | [2021.10.01](Coding-test/Jooss287/programmers_42842.md)
-[H-Index(sort_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42747) | [2021.10.01](Coding-test/Jooss287/programmers_42747.md)
+[조이스틱(Greedy_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42860) | | [2021.10.01](Coding-test/Jooss287/programmers_42860.md)
+[카펫(Exhaustive Search_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42842) | | [2021.10.01](Coding-test/Jooss287/programmers_42842.md)
+[H-Index(sort_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42747) | | [2021.10.01](Coding-test/Jooss287/programmers_42747.md)
 [기능개발(stack/queue_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42586) |
 [구명보트(Greedy_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42885) |
 [다리를 지나는 트럭(stack/queue_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42583) |
