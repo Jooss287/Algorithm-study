@@ -34,8 +34,8 @@ PR 주실 때 계획/달성표에 완료 날짜에 링크를 추가하여 보내
 [조이스틱(Greedy_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42860) | | [2021.10.01](Coding-test/Jooss287/programmers_42860.md)
 [카펫(Exhaustive Search_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42842) | | [2021.10.01](Coding-test/Jooss287/programmers_42842.md)
 [H-Index(sort_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42747) | | [2021.10.01](Coding-test/Jooss287/programmers_42747.md)
-[기능개발(stack/queue_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42586) | | [2021.10.15](Coding-test/Jooss287/programmers_42586.md)
-[구명보트(Greedy_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42885) |
+[기능개발(stack/queue_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42586) | | [2021.10.05](Coding-test/Jooss287/programmers_42586.md)
+[구명보트(Greedy_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42885) | | [2021.10.05](Coding-test/Jooss287/programmers_42885.md)
 [다리를 지나는 트럭(stack/queue_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42583) |
 [타겟 넘버(DFS/BFS_lv2)](https://programmers.co.kr/learn/courses/30/lessons/43165) |
 [네트워크(DFS/BFS_lv3)](https://programmers.co.kr/learn/courses/30/lessons/43162) |
