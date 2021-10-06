@@ -1,4 +1,4 @@
-# 소수 찾기
+# 구명보트
 
 [Programmers 42885 문제](https://programmers.co.kr/learn/courses/30/lessons/42885)  
 

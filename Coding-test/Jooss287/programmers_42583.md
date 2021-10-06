@@ -1,4 +1,4 @@
-# 소수 찾기
+# 큰 수 만들기
 
 [Programmers 42883 문제](https://programmers.co.kr/learn/courses/30/lessons/42883)  
 

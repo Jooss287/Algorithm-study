@@ -1,4 +1,4 @@
-# 소수 찾기
+# 카펫
 
 [Programmers 42842 문제](https://programmers.co.kr/learn/courses/30/lessons/42842)  
 

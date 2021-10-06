@@ -1,4 +1,4 @@
-# 소수 찾기
+# 위장
 
 [Programmers 42578 문제](https://programmers.co.kr/learn/courses/30/lessons/42578)  
 

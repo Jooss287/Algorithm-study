@@ -1,4 +1,4 @@
-# 소수 찾기
+# 기능개발
 
 [Programmers 42586 문제](https://programmers.co.kr/learn/courses/30/lessons/42586)  
 

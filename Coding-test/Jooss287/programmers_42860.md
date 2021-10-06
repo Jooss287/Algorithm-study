@@ -1,4 +1,4 @@
-# 소수 찾기
+# 조이스틱
 
 [Programmers 42860 문제](https://programmers.co.kr/learn/courses/30/lessons/42860)  
 

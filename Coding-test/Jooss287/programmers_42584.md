@@ -1,4 +1,4 @@
-# 소수 찾기
+# 주식가격
 
 [Programmers 42584 문제](https://programmers.co.kr/learn/courses/30/lessons/42584)  
 

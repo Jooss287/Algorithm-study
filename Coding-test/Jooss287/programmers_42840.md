@@ -1,4 +1,4 @@
-# 전화번호 목록
+# 모의고사
 
 [Programmers 42840 문제](https://programmers.co.kr/learn/courses/30/lessons/42840)  
 
