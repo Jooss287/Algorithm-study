@@ -38,7 +38,7 @@ PR 주실 때 계획/달성표에 완료 날짜에 링크를 추가하여 보내
 [구명보트(Greedy_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42885) | | [2021.10.05](Coding-test/Jooss287/programmers_42885.md)
 [다리를 지나는 트럭(stack/queue_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42583) | | [2021.10.06](Coding-test/Jooss287/programmers_42583.md)
 [타겟 넘버(DFS/BFS_lv2)](https://programmers.co.kr/learn/courses/30/lessons/43165) | | [2021.10.06](Coding-test/Jooss287/programmers_43165.md)
-[네트워크(DFS/BFS_lv3)](https://programmers.co.kr/learn/courses/30/lessons/43162) |
+[네트워크(DFS/BFS_lv3)](https://programmers.co.kr/learn/courses/30/lessons/43162) | | [2021.10.07](Coding-test/Jooss287/programmers_43162.md)
 [프린터(stack/queue_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42587) | | [2021.10.06](Coding-test/Jooss287/programmers_42587.md)
 
 ## 예비 문제 및 차후 토론시 적용
