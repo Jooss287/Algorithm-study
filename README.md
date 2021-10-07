@@ -40,7 +40,7 @@ PR 주실 때 계획/달성표에 완료 날짜에 링크를 추가하여 보내
 [타겟 넘버(DFS/BFS_lv2)](https://programmers.co.kr/learn/courses/30/lessons/43165) | [2021.10.06](Coding-test/Jooss287/programmers_43165.md)
 [네트워크(DFS/BFS_lv3)](https://programmers.co.kr/learn/courses/30/lessons/43162) | [2021.10.07](Coding-test/Jooss287/programmers_43162.md)
 [프린터(stack/queue_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42587) | [2021.10.06](Coding-test/Jooss287/programmers_42587.md)
-[섬 연결하기(Greedy_lv3)](https://programmers.co.kr/learn/courses/30/lessons/42861) |
+[섬 연결하기(Greedy_lv3)](https://programmers.co.kr/learn/courses/30/lessons/42861) | [2021.10.07](Coding-test/Jooss287/programmers_42861.md)
 [단속카메라(Greedy_lv3)](https://programmers.co.kr/learn/courses/30/lessons/42884) |
 [베스트 앨범(hash_lv3)](https://programmers.co.kr/learn/courses/30/lessons/42579) |
 [이중우선순위큐(Heap_lv3)](https://programmers.co.kr/learn/courses/30/lessons/42628) |
