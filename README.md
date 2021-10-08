@@ -23,25 +23,25 @@ PR 주실 때 계획/달성표에 완료 날짜에 링크를 추가하여 보내
 [완주하지 못한 선수(hash_lv1)](https://programmers.co.kr/learn/courses/30/lessons/42576#) | [2020.09.15](Coding-test/Jooss287/programmers_42576.md) | [2020.09.16](Coding-test/Rayin42/programmers_42576.md)
 [전화번호 목록(hash_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42577#)   | [2020.09.16](Coding-test/Jooss287/programmers_42577.md) | [2020.09.21](Coding-test/Rayin42/programmers_42577.md)
 [K번째수(sort_lv1)](https://programmers.co.kr/learn/courses/30/lessons/42748)  | [2020.09.16](Coding-test/Jooss287/programmers_42748.md) | [2020.09.22](Coding-test/Rayin42/programmers_42748.md)
-[가장 큰 수(sort_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42746)   | [2020.09.18](Coding-test/Jooss287/programmers_42746.md)
-[모의고사(Exhaustive Search_lv1)](https://programmers.co.kr/learn/courses/30/lessons/42840) | [2020.09.20](Coding-test/Jooss287/programmers_42840.md)
-[소수 찾기(Exhaustive Search_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42839) | [2021.08.09](Coding-test/Jooss287/programmers_42839.md)
-[체육복(Greedy_lv1)](https://programmers.co.kr/learn/courses/30/lessons/42862) | [2021.08.10](Coding-test/Jooss287/programmers_42862.md)
-[큰 수 만들기(Greedy_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42883) | [2021.08.10](Coding-test/Jooss287/programmers_42883.md)
-[위장(hash_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42578) | [2021.08.10](Coding-test/Jooss287/programmers_42578.md)
-[주식가격(stack/queue_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42584) | [2021.08.13](Coding-test/Jooss287/programmers_42584.md)
-[더 맵게(Heap_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42626) | [2021.08.13](Coding-test/Jooss287/programmers_42626.md)
-[조이스틱(Greedy_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42860) | [2021.10.01](Coding-test/Jooss287/programmers_42860.md)
-[카펫(Exhaustive Search_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42842) | [2021.10.01](Coding-test/Jooss287/programmers_42842.md)
-[H-Index(sort_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42747) | [2021.10.01](Coding-test/Jooss287/programmers_42747.md)
-[기능개발(stack/queue_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42586) | [2021.10.05](Coding-test/Jooss287/programmers_42586.md)
-[구명보트(Greedy_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42885) | [2021.10.05](Coding-test/Jooss287/programmers_42885.md)
-[다리를 지나는 트럭(stack/queue_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42583) | [2021.10.06](Coding-test/Jooss287/programmers_42583.md)
-[타겟 넘버(DFS/BFS_lv2)](https://programmers.co.kr/learn/courses/30/lessons/43165) | [2021.10.06](Coding-test/Jooss287/programmers_43165.md)
-[네트워크(DFS/BFS_lv3)](https://programmers.co.kr/learn/courses/30/lessons/43162) | [2021.10.07](Coding-test/Jooss287/programmers_43162.md)
-[프린터(stack/queue_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42587) | [2021.10.06](Coding-test/Jooss287/programmers_42587.md)
-[섬 연결하기(Greedy_lv3)](https://programmers.co.kr/learn/courses/30/lessons/42861) | [2021.10.07](Coding-test/Jooss287/programmers_42861.md)
-[단속카메라(Greedy_lv3)](https://programmers.co.kr/learn/courses/30/lessons/42884) |
+[가장 큰 수(sort_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42746)   | [2020.09.18](Coding-test/Jooss287/programmers_42746.md) |
+[모의고사(Exhaustive Search_lv1)](https://programmers.co.kr/learn/courses/30/lessons/42840) | [2020.09.20](Coding-test/Jooss287/programmers_42840.md) |
+[소수 찾기(Exhaustive Search_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42839) | [2021.08.09](Coding-test/Jooss287/programmers_42839.md) |
+[체육복(Greedy_lv1)](https://programmers.co.kr/learn/courses/30/lessons/42862) | [2021.08.10](Coding-test/Jooss287/programmers_42862.md) |
+[큰 수 만들기(Greedy_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42883) | [2021.08.10](Coding-test/Jooss287/programmers_42883.md) |
+[위장(hash_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42578) | [2021.08.10](Coding-test/Jooss287/programmers_42578.md) |
+[주식가격(stack/queue_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42584) | [2021.08.13](Coding-test/Jooss287/programmers_42584.md) |
+[더 맵게(Heap_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42626) | [2021.08.13](Coding-test/Jooss287/programmers_42626.md) |
+[조이스틱(Greedy_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42860) | [2021.10.01](Coding-test/Jooss287/programmers_42860.md) |
+[카펫(Exhaustive Search_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42842) | [2021.10.01](Coding-test/Jooss287/programmers_42842.md) |
+[H-Index(sort_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42747) | [2021.10.01](Coding-test/Jooss287/programmers_42747.md) |
+[기능개발(stack/queue_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42586) | [2021.10.05](Coding-test/Jooss287/programmers_42586.md) |
+[구명보트(Greedy_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42885) | [2021.10.05](Coding-test/Jooss287/programmers_42885.md) |
+[다리를 지나는 트럭(stack/queue_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42583) | [2021.10.06](Coding-test/Jooss287/programmers_42583.md) |
+[타겟 넘버(DFS/BFS_lv2)](https://programmers.co.kr/learn/courses/30/lessons/43165) | [2021.10.06](Coding-test/Jooss287/programmers_43165.md) |
+[네트워크(DFS/BFS_lv3)](https://programmers.co.kr/learn/courses/30/lessons/43162) | [2021.10.07](Coding-test/Jooss287/programmers_43162.md) |
+[프린터(stack/queue_lv2)](https://programmers.co.kr/learn/courses/30/lessons/42587) | [2021.10.06](Coding-test/Jooss287/programmers_42587.md) |
+[섬 연결하기(Greedy_lv3)](https://programmers.co.kr/learn/courses/30/lessons/42861) | [2021.10.07](Coding-test/Jooss287/programmers_42861.md) |
+[단속카메라(Greedy_lv3)](https://programmers.co.kr/learn/courses/30/lessons/42884) | [2021.10.08](Coding-test/Jooss287/programmers_42884.md) |
 [베스트 앨범(hash_lv3)](https://programmers.co.kr/learn/courses/30/lessons/42579) |
 [이중우선순위큐(Heap_lv3)](https://programmers.co.kr/learn/courses/30/lessons/42628) |
 [디스크 컨트롤러(Heap_lv3)](https://programmers.co.kr/learn/courses/30/lessons/42627) |
