@@ -44,7 +44,7 @@ PR 주실 때 계획/달성표에 완료 날짜에 링크를 추가하여 보내
 [단속카메라(Greedy_lv3)](https://programmers.co.kr/learn/courses/30/lessons/42884) | [2021.10.08](Coding-test/Jooss287/programmers_42884.md) |
 [베스트 앨범(hash_lv3)](https://programmers.co.kr/learn/courses/30/lessons/42579) | [2021.10.08](Coding-test/Jooss287/programmers_42579.md) |
 [이중우선순위큐(Heap_lv3)](https://programmers.co.kr/learn/courses/30/lessons/42628) | [2021.10.08](Coding-test/Jooss287/programmers_42628.md) |
-[디스크 컨트롤러(Heap_lv3)](https://programmers.co.kr/learn/courses/30/lessons/42627) |
+[디스크 컨트롤러(Heap_lv3)](https://programmers.co.kr/learn/courses/30/lessons/42627) | [2021.10.12](Coding-test/Jooss287/programmers_42627.md) |
 [N으로 표현(DynamicProgramming_lv3)](https://programmers.co.kr/learn/courses/30/lessons/42895) |
 [정수 삼각형(DynamicProgramming_lv3)](https://programmers.co.kr/learn/courses/30/lessons/43105) |
 [등굣길(DynamicProgramming_lv3)](https://programmers.co.kr/learn/courses/30/lessons/42898) |
